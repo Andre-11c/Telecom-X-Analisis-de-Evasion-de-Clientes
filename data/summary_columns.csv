@@ -1,0 +1,23 @@
+col,dtype,n_null,%null,n_unique,sample_vals
+Churn,float64,224,3.0824274115866244,2,[0. 1.]
+customerID,object,0,0.0,7267,['0002-ORFBO' '0003-MKNFE' '0004-TLHLJ' '0011-IGKFF' '0013-EXCHZ']
+customer_gender,object,0,0.0,2,['Female' 'Male']
+customer_SeniorCitizen,int64,0,0.0,2,[0 1]
+customer_Partner,int64,0,0.0,2,[1 0]
+customer_Dependents,int64,0,0.0,2,[1 0]
+customer_tenure,int64,0,0.0,73,[ 9  4 13  3 71]
+phone_PhoneService,int64,0,0.0,2,[1 0]
+phone_MultipleLines,object,0,0.0,3,['No' 'Yes' 'No phone service']
+internet_InternetService,object,0,0.0,3,['DSL' 'Fiber optic' 'No']
+internet_OnlineSecurity,object,0,0.0,3,['No' 'Yes' 'No internet service']
+internet_OnlineBackup,object,0,0.0,3,['Yes' 'No' 'No internet service']
+internet_DeviceProtection,object,0,0.0,3,['No' 'Yes' 'No internet service']
+internet_TechSupport,object,0,0.0,3,['Yes' 'No' 'No internet service']
+internet_StreamingTV,object,0,0.0,3,['Yes' 'No' 'No internet service']
+internet_StreamingMovies,object,0,0.0,3,['No' 'Yes' 'No internet service']
+account_Contract,object,0,0.0,3,['One year' 'Month-to-month' 'Two year']
+account_PaperlessBilling,int64,0,0.0,2,[1 0]
+account_PaymentMethod,object,0,0.0,4,"['Mailed check' 'Electronic check' 'Credit card (automatic)'
+ 'Bank transfer (automatic)']"
+account_Charges.Monthly,float64,0,0.0,1585,[65.6 59.9 73.9 98.  83.9]
+account_Charges.Total,object,0,0.0,6531,['593.3' '542.4' '280.85' '1237.85' '267.4']

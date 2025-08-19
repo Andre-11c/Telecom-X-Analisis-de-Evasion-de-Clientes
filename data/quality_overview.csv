@@ -1,0 +1,2 @@
+n_rows,n_cols,duplicate_rows,cols_with_nulls,possible_numeric_objects,category_inconsistency_cols,datetime_candidates,high_cardinality_cols
+7267,21,0,1,1,0,0,1
