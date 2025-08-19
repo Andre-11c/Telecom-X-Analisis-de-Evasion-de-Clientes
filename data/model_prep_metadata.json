@@ -1,0 +1,31 @@
+{
+  "target": "Churn",
+  "num_cols": [
+    "customer_SeniorCitizen",
+    "customer_Partner",
+    "customer_Dependents",
+    "customer_tenure",
+    "phone_PhoneService",
+    "account_PaperlessBilling",
+    "account_Charges.Monthly",
+    "account_Charges.Total",
+    "cuentas_diarias"
+  ],
+  "encoded_low_card_cats": [
+    "customer_gender",
+    "phone_MultipleLines",
+    "internet_InternetService",
+    "internet_OnlineSecurity",
+    "internet_OnlineBackup",
+    "internet_DeviceProtection",
+    "internet_TechSupport",
+    "internet_StreamingTV",
+    "internet_StreamingMovies",
+    "account_Contract",
+    "account_PaymentMethod"
+  ],
+  "ignored_high_card_cats": [
+    "customerID"
+  ],
+  "scaled_num": true
+}

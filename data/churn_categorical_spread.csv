@@ -1,0 +1,12 @@
+feature,spread,n_levels
+account_Contract,0.39877819012275195,3
+internet_InternetService,0.3448778451712098,3
+internet_OnlineSecurity,0.3436174350143538,3
+internet_TechSupport,0.3423049331314137,3
+internet_OnlineBackup,0.32523776135923776,3
+internet_DeviceProtection,0.3172264486117845,3
+account_PaymentMethod,0.3004231107950205,4
+internet_StreamingMovies,0.2627545053895259,3
+internet_StreamingTV,0.2611815133183771,3
+phone_MultipleLines,0.03683209441018803,3
+customer_gender,0.007605340068904065,2

@@ -1,0 +1,21 @@
+item,ok
+1.1 Carga desde API,True
+1.2 Conversión a DataFrame,True
+2.1 Exploración tipos/shape,True
+2.1 Diccionario variables,True
+2.1 Identificación churn,True
+2.1 Relevancia simple,True
+2.2 Reporte nulos,True
+2.2 Overview calidad,True
+2.3 Dataset limpio,True
+2.3 Binarizaciones/normalizaciones,True
+2.4 Cuentas_Diarias creada,True
+2.5 Preview estandarización,True
+2.5 Dataset model ready,True
+3.1 Descriptivo numérico,True
+3.2 Distribución churn,True
+3.3 Churn por categóricas,True
+3.4 Churn vs numéricas,True
+Opt Correlation matrix,True
+Opt Baseline metrics,True
+Informe Final markdown,True
